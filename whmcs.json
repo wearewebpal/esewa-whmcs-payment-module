@@ -1,0 +1,30 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-gateways",
+    "name": "esewa-gateway-module",
+    "license": "MIT",
+    "category": "gateway",
+    "description": {
+        "name": "eSewa Payment Gateway Module",
+        "tagline": "Payment Gateway modules allow you to integrate payment solutions with the WHMCS platform.",
+        "long": "The sample files here demonstrate how we suggest a Third Party Payment Gateway module for WHMCS be structured and implemented.",
+        "features": [
+            "Provide both client and admin facing user interfaces",
+            "Utilize hook functionality within WHMCS"
+        ]
+    },
+    "logo": {
+        "filename": "logo.png"
+    },
+    "support": {
+        "homepage": "https:\/\/webpal.biz\/", 
+        "email": "support@webpal.biz", 
+        "support_url": "https:\/\/kb.webpal.biz\/",
+    },
+    "authors": [
+        {
+            "name": "Webpal",
+            "homepage": "https:\/\/webpal.biz\/"
+        }
+    ]
+}
